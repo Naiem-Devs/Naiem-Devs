@@ -55,8 +55,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![windows Windows 10](https://img.shields.io/badge/%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EWindows%2010%3C%2Ftitle%3E%3Cpath%20d%3D%22M0%203.449L9.75%202.1v9.451H0m10.949-9.602L24%200v11.4H10.949M0%2012.6h9.75v9.451L0%2020.699M10.949%2012.6H24V24l-12.9-1.801%22%2F%3E%3C%2Fsvg%3E
-) 
+    ![Visual Studio Code](https://img.shields.io/badge/Windows-0078d7.svg?style=for-the-badge&logo=Windows&logoColor=white)
 
 <br>
 
