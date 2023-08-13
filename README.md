@@ -51,6 +51,7 @@
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=github&logoColor=black)
     
 <br>
 
@@ -67,6 +68,7 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![nodedotjs](https://img.shields.io/badge/nodedotjs-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
