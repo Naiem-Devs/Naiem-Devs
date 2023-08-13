@@ -139,8 +139,8 @@
 <br>
 
 <div align='center'>
+## <b style="font-size: 28" >Thank you So Much✨</b>
 
-## <b>Thank you So Much✨</b>
 
 </div>
 <br>
@@ -148,7 +148,4 @@
 <br>
 <br>
 
----
-
-<br>
 
