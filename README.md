@@ -42,8 +42,9 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![bootstrap](https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
    ![tailwindcss](https://img.shields.io/badge/tailwindcss%20-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-   ![react](https://img.shields.io/badge/react%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+   ![react](https://img.shields.io/badge/react%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
    ![wordpress](https://img.shields.io/badge/wordpress%20-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+   ![php](https://img.shields.io/badge/php%20-%2321759B.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <br>
 
